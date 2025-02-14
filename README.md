@@ -1,3 +1,3 @@
 # latihan-branch
 
-Halo, ini cuma tanggal ya
+ini biar nanti conflict aja :)
