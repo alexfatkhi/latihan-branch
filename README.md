@@ -1,3 +1,3 @@
 # latihan-branch
+Github itu asyik lho :)
 
-ini biar nanti conflict aja :)
