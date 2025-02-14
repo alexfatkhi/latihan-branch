@@ -1,3 +1,3 @@
 # latihan-branch
-Github itu asyik lho :)
+Belajar Github di dicoding menyenangkan
 
